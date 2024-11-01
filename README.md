@@ -2,7 +2,7 @@
 
 I graduated from UC Berkeley with a degree in Electrical Engineering and Computer Science. I’ve been a generalist software engineer for 30 years, writing code in a variety of programming languages and environments. During the last decade I have been focusing on security, working as an auditor at [Thesis Defense](https://thesis.co/defense), Consensys Diligence, and Least Authority.
 
-I am passionate about improving the security of Web3 software to enable widespread adoption of a more decentralized future. _Unus pro omnibus, omnes pro uno._
+I am passionate about improving the security of web3 software to enable widespread adoption of a more decentralized future. _Unus pro omnibus, omnes pro uno._
 
 # Languages
 
